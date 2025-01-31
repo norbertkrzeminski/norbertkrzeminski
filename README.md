@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norbertkrzeminski
 
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning :) 
 
 
 <!---
