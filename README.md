@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @norbertkrzeminski
-
-- 🌱 I’m currently learning :) 
+Hi, I’m @norbertkrzeminski, Linux enthusiast 
 
 
 <!---
